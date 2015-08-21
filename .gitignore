@@ -1,0 +1,15 @@
+*.class
+*.xml
+
+#Mac
+copy.sh
+/bin
+
+#eclipse
+.classpath
+.project
+.settings
+.DS_Store
+
+#Windows
+bin
